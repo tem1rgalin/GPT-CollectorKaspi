@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+pytesseract
+opencv-python
+numpy
+Pillow
